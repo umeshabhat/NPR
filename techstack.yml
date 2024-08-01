@@ -1,0 +1,20 @@
+repo_name: umeshabhat/NPR
+report_id: 7a3f4f237141bcb097aba9f12f17962b
+version: 0.1
+repo_type: Public
+timestamp: '2024-08-01T18:52:18+00:00'
+requested_by: umeshabhat
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/umeshabhat/NPR
+  detection_source: Repo Metadata
